@@ -1,9 +1,11 @@
-# Slack channel for class  - cedar-c-102n2
-Cedar Rapids DeltaV 102 Nights and Weekends 
-
 # Code 102: Intro to Software Development
 
+Cedar Rapids DeltaV 102 Nights and Weekends 
+
+
 ## Welcome to DeltaV!
+
+### Slack channel for class  - cedar-c-102n2
 
 We’re delighted to have you as a member of our Code 102: Intro to Software Development course, where you'll learn the basics of computer programming. It'll be a lot of work and a lot of fun.
 
