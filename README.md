@@ -1,4 +1,4 @@
-# cedar-c-102n2
+# Slack channel for class  - cedar-c-102n2
 Cedar Rapids DeltaV 102 Nights and Weekends 
 
 # Code 102: Intro to Software Development
