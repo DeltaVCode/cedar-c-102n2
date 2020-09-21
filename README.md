@@ -20,16 +20,16 @@ Instructor: Kevin Cox,  email: Tecvector@outlook.com, slack: Kevin Cox
 
 ### Course Schedule
 
-1. *** Learning. Markdown.*** (class-01/)
-1. *** The Coder's Computer.*** (class-02/)
-1. *** Revisions and the Cloud.*** (class-03/)
-1. *** Structure web pages with HTML.*** (class-04/)
-1. *** Design web pages with CSS.*** (class-05/)
-1. *** Activate web pages with JavaScript.*** (class-06/)
-1. *** Programming with JavaScript.*** (class-07/)
-1. *** Just enough math, logic, and computer architecture.*** (class-08/)
-1. *** Career Coaching.*** (class-09/)
-1. *** 201 Entrance Exam.*** (class-10/)
+1. ***Learning. Markdown.*** (class-01/)
+1. ***The Coder's Computer.*** (class-02/)
+1. ***Revisions and the Cloud.*** (class-03/)
+1. ***Structure web pages with HTML.*** (class-04/)
+1. ***Design web pages with CSS.*** (class-05/)
+1. ***Activate web pages with JavaScript.*** (class-06/)
+1. ***Programming with JavaScript.*** (class-07/)
+1. ***Just enough math, logic, and computer architecture.*** (class-08/)
+1. ***Career Coaching.*** (class-09/)
+1. ***201 Entrance Exam.*** (class-10/)
 
 ### Tips for Success
 
